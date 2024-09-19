@@ -6,7 +6,7 @@ import email from '../assets/email.svg';
 const Footer = () => {
   return (
     <>
-        <div className=' bg-gradient-to-r from-transparent from-0% via-[#A416C8] via-50% to-transparent to-100% pt-0.5 '>
+        <div className=' bg-gradient-to-r from-transparent from-0% via-[#A416C8] via-50% to-transparent to-100% pt-0.5'>
             <div className='h-full w-full bg-black pt-12'>
             <div className='grid grid-cols-1 md:grid-cols-2 items-center'>
                 <img src={ss10} alt='logo' className='p-5 md:p-10 h-auto object-contain'></img>
