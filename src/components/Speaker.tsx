@@ -1,4 +1,3 @@
-import person from "../assets/ceo.png";
 import tohand from "../assets/spe1.png";
 import sahu from "../assets/spe2.png"
 import khatri from "../assets/spe3.png"
