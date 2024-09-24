@@ -1,6 +1,7 @@
 import person from "../assets/ceo.png";
 import tohand from "../assets/spe1.png";
 import sahu from "../assets/spe2.png"
+import khatri from "../assets/spe3.png"
 
 const Speaker = () => {
     const tile=(ab:string , cd:string ,ef:string)=>{
@@ -21,9 +22,9 @@ const Speaker = () => {
         <div className="mb-20">
             <h1 className='text-center text-white text-4xl text-[2rem] md:text-[4rem] m-10 md:m-40 font-Goldman'>SPEAKERS</h1>
             <div className='grid md:grid-cols-3 grid-cols-1'>
-                {tile("Sarit Prajna Sahu","Co-Founder napEazy",sahu)}
+                {tile("Rahul Khatri","Founder-AuraX",khatri)}
                 {tile("Satyam Sahu","Co-Founder Tohands",tohand)}
-                {tile("Ron Measely","CEO-Alextech",person)}
+                {tile("Sarit Prajna Sahu","Co-Founder napEazy",sahu)}
             </div>
         </div>
         <div className='h-[6rem] w-[6rem] md:h-[20rem] md:w-[20rem] bg-secondary rounded-full blur-[60rem] absolute -z-10 -right-32 bottom-64'></div>

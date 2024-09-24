@@ -43,7 +43,7 @@ const Header = () => {
     style={{ zIndex: 1000 }}
   >
     <li>
-      <a href='#timeline' className='block text-right p-4 hover:bg-primary transition-colors font-Goldman'>TIMELINE</a>
+      <a href='#timeline' className='block text-right p-4 hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 transition-colors font-Goldman'>TIMELINE</a>
     </li>
     <li>
       <a href='#tracks' className='block text-right p-4 hover:bg-primary transition-colors font-Goldman'>TRACKS</a>

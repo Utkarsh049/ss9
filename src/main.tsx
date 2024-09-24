@@ -16,7 +16,7 @@ const router=createBrowserRouter([
     path:'/ss9/register',
     element:<Choose/>,
     errorElement:<div>Not Found</div>
-  }
+  },
 ])
 
 createRoot(document.getElementById('root')!).render(

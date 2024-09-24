@@ -40,7 +40,7 @@ const Faq3 = () => {
         <div className="rounded-xl py-5 pl-2 border-l-2 border-b-2 border-primary">
           <details className="group">
             <summary className="flex cursor-pointer list-none items-center justify-between font-medium">
-              <span> Why should we take part in SS 9.0</span>
+              <span> What is Startup Street 9.0?</span>
               <span className="transition group-open:rotate-180">
                 <svg
                   className="stroke-primary"
@@ -58,18 +58,14 @@ const Faq3 = () => {
               </span>
             </summary>
             <p className="group-open:animate-fadeIn mt-3 text-white">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Eveniet, officiis! Voluptatibus laborum fugit nostrum
-              corporis voluptas adipisci iusto, facere tenetur repellat
-              necessitatibus pariatur quisquam minus distinctio reiciendis
-              consequuntur! Tenetur, nulla.
+            It’s a 24-hour ideathon where teams pitch innovative startup ideas focused on social entrepreneurship.
             </p>
           </details>
         </div>
         <div className="rounded-xl py-5 pl-2 border-l-2 border-b-2 border-primary">
           <details className="group">
             <summary className="flex cursor-pointer list-none items-center justify-between font-medium">
-              <span> Why should we take part in SS 9.0</span>
+              <span>How many members can be in a team?</span>
               <span className="transition group-open:rotate-180">
                 <svg
                   className="stroke-primary"
@@ -87,18 +83,14 @@ const Faq3 = () => {
               </span>
             </summary>
             <p className="group-open:animate-fadeIn mt-3 text-white">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Eveniet, officiis! Voluptatibus laborum fugit nostrum
-              corporis voluptas adipisci iusto, facere tenetur repellat
-              necessitatibus pariatur quisquam minus distinctio reiciendis
-              consequuntur! Tenetur, nulla.
+            Each team can have 2-5 members.
             </p>
           </details>
         </div>
         <div className="rounded-xl py-5 pl-2 border-l-2 border-b-2 border-primary">
           <details className="group">
             <summary className="flex cursor-pointer list-none items-center justify-between font-medium">
-              <span> Why should we take part in SS 9.0</span>
+              <span>How can I register?</span>
               <span className="transition group-open:rotate-180">
                 <svg
                   className="stroke-primary"
@@ -116,18 +108,14 @@ const Faq3 = () => {
               </span>
             </summary>
             <p className="group-open:animate-fadeIn mt-3 text-white">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Eveniet, officiis! Voluptatibus laborum fugit nostrum
-              corporis voluptas adipisci iusto, facere tenetur repellat
-              necessitatibus pariatur quisquam minus distinctio reiciendis
-              consequuntur! Tenetur, nulla.
+            You can register through the graVITas website.
             </p>
           </details>
         </div>
         <div className="rounded-xl py-5 pl-2 border-l-2 border-b-2 border-primary">
           <details className="group">
             <summary className="flex cursor-pointer list-none items-center justify-between font-medium">
-              <span> Why should we take part in SS 9.0</span>
+              <span>Can we submit ideas in any domain?</span>
               <span className="transition group-open:rotate-180">
                 <svg
                   className="stroke-primary"
@@ -145,11 +133,7 @@ const Faq3 = () => {
               </span>
             </summary>
             <p className="group-open:animate-fadeIn mt-3 text-white">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Eveniet, officiis! Voluptatibus laborum fugit nostrum
-              corporis voluptas adipisci iusto, facere tenetur repellat
-              necessitatibus pariatur quisquam minus distinctio reiciendis
-              consequuntur! Tenetur, nulla.
+            Yes, as long as they align with social entrepreneurship , SDGs and impact.
             </p>
           </details>
         </div>
