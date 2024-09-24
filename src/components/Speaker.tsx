@@ -1,4 +1,6 @@
 import person from "../assets/ceo.png";
+import tohand from "../assets/spe1.png";
+import sahu from "../assets/spe2.png"
 
 const Speaker = () => {
     const tile=(ab:string , cd:string ,ef:string)=>{
@@ -8,7 +10,7 @@ const Speaker = () => {
                     <div className='-m-4 h-72 w-72 bg-primary rounded-2xl grid items-center justify-center '> <img  src={ef} className="h-72 w-72 object-cover rounded-xl object-top border-4 border-secondary"></img></div>
                 </div>
                 <h1 className="text-white text-[2rem] font-Goldman">{ab}</h1>
-                <h1 className="text-white text-[1rem] font-Goldman">{cd}</h1>
+                <h1 className="text-secondary text-[1rem] font-Goldman">{cd}</h1>
             </div>
         )
     }
@@ -19,8 +21,8 @@ const Speaker = () => {
         <div className="mb-20">
             <h1 className='text-center text-white text-4xl text-[2rem] md:text-[4rem] m-10 md:m-40 font-Goldman'>SPEAKERS</h1>
             <div className='grid md:grid-cols-3 grid-cols-1'>
-                {tile("Ron Measely","CEO-Alextech",person)}
-                {tile("Ron Measely","CEO-Alextech",person)}
+                {tile("Sarit Prajna Sahu","Co-Founder napEazy",sahu)}
+                {tile("Satyam Sahu","Co-Founder Tohands",tohand)}
                 {tile("Ron Measely","CEO-Alextech",person)}
             </div>
         </div>

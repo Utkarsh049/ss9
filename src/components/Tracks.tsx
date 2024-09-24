@@ -28,7 +28,7 @@ const Tracks = () => {
                     Open
                 </div>
             </button>
-            <div className=' md:h-[20rem] md:w-[20rem] h-[8rem] w-[8rem] bg-secondary rounded-full blur-[1000rem] absolute -z-10 -left-64 top-48'></div>
+            <div className=' md:h-[20rem] md:w-[20rem] h-[20rem] w-[8rem] bg-secondary rounded-full blur-[1000rem] absolute -z-10 md:-left-64 md:top-48 top-6 -left-6'></div>
             <div className='hidden md:block h-[16rem] w-[16rem] bg-secondary rounded-full blur-[100rem] absolute -z-10 -right-64 top-48'></div>
         </div>
         </div>

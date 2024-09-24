@@ -157,10 +157,10 @@ const Faq3 = () => {
     </div>
   </div>
 </div>
-<div className='h-[6rem] w-[6rem] md:h-[20rem] md:w-[20rem] bg-secondary rounded-full  absolute -z-10 blur-[60rem] bottom-0'></div>
+<div className='h-[16rem] w-[16rem] md:h-[20rem] md:w-[20rem] bg-secondary rounded-full  absolute -z-10 blur-[60rem] bottom-0'></div>
 </div>
         
-      <div className='h-[6rem] w-[6rem] md:h-[20rem] md:w-[20rem] bg-secondary rounded-full  absolute -z-10 blur-[60rem] bottom-0'></div>
+      <div className='h-[16rem] w-[16rem] md:h-[20rem] md:w-[20rem] bg-secondary rounded-full  absolute -z-10 blur-[60rem] bottom-0'></div>
 
     </>
   );

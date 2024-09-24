@@ -4,7 +4,7 @@ const Banner = () => {
   return (
     <>
         <div className='overflow-x-hidden'>
-            <div className='animate-slide flex '>
+            <div className='animate-slide flex'>
                 <img src={ban}></img>
                 <img src={ban}></img>
             </div>

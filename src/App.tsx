@@ -8,7 +8,9 @@ import Banner from './components/Banner'
 import Timeline from './components/Timeline'
 import Faq3 from './components/Faq'
 
+
 const App = () => {
+
   return (
     <> 
       <Header/>
